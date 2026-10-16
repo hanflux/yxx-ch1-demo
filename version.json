@@ -1,0 +1,8 @@
+{
+  "version": "0.9.1-review",
+  "chapter": 1,
+  "engine": "Godot 4.6.3",
+  "web_threads": false,
+  "packaging": "split-runtime",
+  "source_commit": "1aae414"
+}
