@@ -1,0 +1,8 @@
+{
+  "version": "0.9.3-review",
+  "source_commit": "f2996fb3edade7879fd92efca2dc3b4bc9ea0a69",
+  "build": "ordinary Web",
+  "qa_module": false,
+  "checkpoint_snapshots": false,
+  "engine": "Godot 4.6.3"
+}
