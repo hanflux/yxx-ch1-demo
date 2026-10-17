@@ -1,0 +1,9 @@
+{
+  "version": "0.9.3.1-review",
+  "source_commit": "dd3a661127221a96c19c3f2b81d06306b89573d0",
+  "build": "ordinary Web",
+  "qa_module": false,
+  "checkpoint_snapshots": false,
+  "engine": "Godot 4.6.3",
+  "patch_scope": "Player-triggered B4 checkpoint entry and persistent restoration dialogue"
+}
