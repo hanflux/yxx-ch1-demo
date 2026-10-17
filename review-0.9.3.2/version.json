@@ -1,0 +1,9 @@
+{
+  "version": "0.9.3.2-review",
+  "source_commit": "697d4963152e4734a2dffc34ad0b76dcbdc68aeb",
+  "build": "ordinary Web",
+  "qa_module": false,
+  "checkpoint_snapshots": false,
+  "engine": "Godot 4.6.3",
+  "patch_scope": "Scene-specific ambience, crossfades and smooth mixer controls"
+}
